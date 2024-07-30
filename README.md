@@ -1,0 +1,1 @@
+This repository contains a PDF guide that provides a comprehensive step-by-step explanation on how to create a repository on GitHub. Whether you're a beginner or looking to refresh your knowledge, this guide will help you understand the process clearly.
